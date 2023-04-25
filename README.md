@@ -1,0 +1,2 @@
+# Bubble-Sort
+####This code demonstrates the implementation of the Bubble Sort algorithm in C to sort an array of integers in ascending order. The program initializes an array of integers and calls the BubbleSort function, which uses two nested loops to compare adjacent pairs of elements and swap them if they are in the wrong order. The Display function is then called to print the sorted array to the console. 
